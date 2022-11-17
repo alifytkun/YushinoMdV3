@@ -166,7 +166,7 @@ global.reloadHandler = async function (restatConn) {
   }
   
 let welc = `
-❖━━━[ *어서 오십시오* ]━━━❖
+❖━━━[ *ALIF CHAN* ]━━━❖
 ┏––––––━━━━━━━━•
 │☘︎ @subject
 ┣━━━━━━━━┅┅┅
@@ -175,12 +175,13 @@ let welc = `
 │ *ɴᴀᴍᴀ:* 
 │ *ᴜᴍᴜʀ:* 
 │ *ɢᴇɴᴅᴇʀ:*
+│ *REME QEME MIN 50 AT NERKUN*
 ┗–––━━┅┅┅
 
-–––┅┅ *ᴅᴇsᴄʀɪᴘᴛɪᴏɴ* ┅┅––––––
+–––┅┅ *ALIF CHAN* ┅┅––––––
 @desc`
 let lef = 
-`❖━━━[ *나중에 봐요* ]━━━❖
+`❖━━━[ *ALIF CHAN* ]━━━❖
 𝚂𝚊𝚢𝚘𝚗𝚊𝚛𝚊𝚊 *@user* 👋😃`
 
   conn.welcome = welc
